@@ -41,12 +41,12 @@ button:hover {
     background-color: #555;
 }
 
-/* Add animations to the buttons */
+
 button:active {
     transform: scale(0.95);
 }
 
-/* Customize the font */
+
 body {
     font-family: 'Arial', sans-serif;
 }
